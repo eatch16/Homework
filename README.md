@@ -1,2 +1,2 @@
 # Homework
-just for homework
+It is just a sample for homework
